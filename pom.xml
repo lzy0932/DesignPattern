@@ -16,6 +16,7 @@
         <module>BuilderPattern</module>
         <module>ProxyPattern</module>
         <module>AdapterPattern</module>
+        <module>DecoratorPattern</module>
     </modules>
 
     <properties>
