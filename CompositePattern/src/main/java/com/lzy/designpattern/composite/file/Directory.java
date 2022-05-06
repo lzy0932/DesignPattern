@@ -7,6 +7,7 @@ import java.util.List;
  * 树枝节点
  */
 public class Directory extends Entry {
+    private String name;
     private List<Entry> children = new ArrayList<>();
 
     public Directory(String name) {
@@ -16,6 +17,11 @@ public class Directory extends Entry {
     public Directory add(Entry entry) {
         children.add(entry);
         return this;
+    }
+
+    @Override
+    public String getName() {
+        return name;
     }
 
     @Override

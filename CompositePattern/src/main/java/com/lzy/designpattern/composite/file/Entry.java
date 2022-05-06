@@ -4,7 +4,7 @@ package com.lzy.designpattern.composite.file;
  * 抽象根节点
  */
 public abstract class Entry {
-    protected String name;
+    public abstract String getName();
 
     public abstract int getSize();
 
@@ -16,6 +16,6 @@ public abstract class Entry {
 
     @Override
     public String toString() {
-        return name + "(" + getSize() + ")";
+        return getName() + "(" + getSize() + ")";
     }
 }
