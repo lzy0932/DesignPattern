@@ -27,6 +27,7 @@
         <module>ChainOfResponsibilityPattern</module>
         <module>StatePattern</module>
         <module>ObserverPattern</module>
+        <module>MediatorPattern</module>
     </modules>
 
     <properties>
