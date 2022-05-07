@@ -23,6 +23,7 @@
         <module>FlyweightPattern</module>
         <module>TemplatePattern</module>
         <module>StrategyPattern</module>
+        <module>CommandPattern</module>
     </modules>
 
     <properties>
