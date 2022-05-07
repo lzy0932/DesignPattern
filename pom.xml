@@ -29,6 +29,7 @@
         <module>ObserverPattern</module>
         <module>MediatorPattern</module>
         <module>IteratorPattern</module>
+        <module>VisitorPattern</module>
     </modules>
 
     <properties>
