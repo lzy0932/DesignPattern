@@ -21,6 +21,7 @@
         <module>FacadePattern</module>
         <module>CompositePattern</module>
         <module>FlyweightPattern</module>
+        <module>TemplatePattern</module>
     </modules>
 
     <properties>
