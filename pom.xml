@@ -20,6 +20,16 @@
         <module>BridgePattern</module>
         <module>FacadePattern</module>
         <module>CompositePattern</module>
+        <module>FlyweightPattern</module>
+        <module>TemplatePattern</module>
+        <module>StrategyPattern</module>
+        <module>CommandPattern</module>
+        <module>ChainOfResponsibilityPattern</module>
+        <module>StatePattern</module>
+        <module>ObserverPattern</module>
+        <module>MediatorPattern</module>
+        <module>IteratorPattern</module>
+        <module>VisitorPattern</module>
     </modules>
 
     <properties>
