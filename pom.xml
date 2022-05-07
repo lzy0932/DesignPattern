@@ -20,6 +20,7 @@
         <module>BridgePattern</module>
         <module>FacadePattern</module>
         <module>CompositePattern</module>
+        <module>FlyweightPattern</module>
     </modules>
 
     <properties>
