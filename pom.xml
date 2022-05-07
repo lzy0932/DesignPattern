@@ -26,6 +26,7 @@
         <module>CommandPattern</module>
         <module>ChainOfResponsibilityPattern</module>
         <module>StatePattern</module>
+        <module>ObserverPattern</module>
     </modules>
 
     <properties>
