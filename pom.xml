@@ -31,6 +31,7 @@
         <module>IteratorPattern</module>
         <module>VisitorPattern</module>
         <module>MementoPattern</module>
+        <module>InterpreterPattern</module>
     </modules>
 
     <properties>
